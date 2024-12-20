@@ -5,14 +5,14 @@
     "notification": true,
     "approval": true,
     "premium": false,
-    "BOTNAME": "",
-    "BOTOWNER": "",
-    "PREFIX": "!",
+    "BOTNAME": "coffe",
+    "BOTOWNER": "Sunnel",
+    "PREFIX": "-",
     "OPERATOR": [
         ""
     ],
     "ADMINBOT": [
-        ""
+        "100071157053751"
     ],
     "disabledcmds": [],
     "disabledevents": [],
